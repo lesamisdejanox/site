@@ -13,9 +13,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // Initialize EmailJS accounts
     const emailAccounts = [
         {
-            publicKey: "AtxzoDZpQmh24BrZ3", // First account public key
-            serviceID: "service_hn8oe4b",   // First account service ID
-            templateID: "template_weq4srj" // First account template ID
+            publicKey: "XXXXXXXXXXX", // First account public key
+            serviceID: "YYYYYYYYYYY",   // First account service ID
+            templateID: "ZZZZZZZZZZZ" // First account template ID
         }
     ];
 
